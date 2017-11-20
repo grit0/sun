@@ -1,0 +1,19 @@
+{
+  "name": "theming-with-styled-components",
+  "description": "Inspired after Google Coder night and day: https://googlecreativelab.github.io/coder-projects/projects/night_and_day/",
+  "version": "0.0.54",
+  "dependencies": {
+    "styled-components": "2.2.3",
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

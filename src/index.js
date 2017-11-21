@@ -10,7 +10,8 @@ import Title from './Title';
 
 // Define our themes: one for day and one for night
 const dayTheme = {
-  skyColor: '#37d8e6',
+  skyColor: '#3832e5',
+  // skyColor: '#37d8e6',
   celestialObjectColor: '#ffdd00',
   celestialObjectBorderColor: '#f1c40f'
 };
